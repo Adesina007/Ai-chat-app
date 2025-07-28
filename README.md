@@ -1,1 +1,1 @@
-# Ai-chat-app
+# LuminashnAi-chat-app
