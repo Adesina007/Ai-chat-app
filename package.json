@@ -1,5 +1,7 @@
+jsonc
+
 {
-  "name": "ai-chat-app",
+  "name": "Luminahai-chat-app",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
